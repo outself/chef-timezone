@@ -1,2 +1,2 @@
-default[:timezone][:value] = "Etc/UTC"
+default[:timezone][:value] = "Europe/Moscow"
 
